@@ -1,0 +1,52 @@
+  .intro-section {
+    text-align: center;
+    padding: 20px;
+  }
+  .search-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  .product-category {
+    width: 200px;
+  }
+  .search-input {
+    width: 350px;
+  }
+  .product-item {
+    background-color: rgb(19, 23, 42);
+    border: 1px solid rgb(20, 27, 65);
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .product-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  .product-name {
+    color: white;
+  }
+  .product-description {
+    color: white;
+  }
+  .product-warranty {
+    color: rgb(79, 45, 204);
+  }
+  .product-price {
+    color: white;
+  }
+  .product-rating {
+    color: yellow;
+    margin-top: 10px;
+  }
+  .product-actions {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  .space-x {
+    margin: 0 5px;
+  }

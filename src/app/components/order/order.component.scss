@@ -1,0 +1,44 @@
+.product-order {
+    color: crimson;
+}
+
+table {
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    border-collapse: separate;
+    border: 1px solid white;
+    border-spacing: 0;
+    background-color: azure;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+.product-info {
+    display: flex;
+    align-items: center;
+}
+
+.product-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.product-name {
+    color: white;
+    margin-right: 10px;
+}
+
+.btn-gradient {
+    background: linear-gradient(to right, rgb(225, 64, 180), rgb(126, 43, 237));
+    background: linear-gradient(to right, );
+    color: white;
+    border-radius: 30px;
+    width: 200px;
+}
